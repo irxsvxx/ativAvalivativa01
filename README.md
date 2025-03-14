@@ -15,5 +15,5 @@ __-- Tabela com informações de amigos --__
 
 __-- Imagem e link --__
 
-![Barney e seus amigos](https://raw.githubusercontent.com/irxsvxx/ativ01/refs/heads/main/barney.jpg?token=GHSAT0AAAAAADAQQVH4L5AGWRM2JJIMXSYEZ6UHXTQ)
+![Barney e seus amigos](https://raw.githubusercontent.com/irxsvxx/ativAvalivativa01/refs/heads/main/barney.jpg)
 [Barney e seus amigos](https://pt.wikipedia.org/wiki/Barney_%26_Friends)  
